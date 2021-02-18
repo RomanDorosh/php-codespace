@@ -3,7 +3,7 @@
 use PHPUnit\Framework\TestCase;
 use function PHPUnit\Framework\assertEquals;
 
-require_once('./src/ejercicios.php');
+require_once('./bootcamp/src/ejercicios.php');
 
 final class EjercicioAgeAverageTest extends TestCase
 {

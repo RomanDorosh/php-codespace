@@ -19,7 +19,7 @@ final class ArraysTest extends TestCase
     // {
     //     // Consigue el email del usuario utilizando la clave del array
     //     $user = ['name' => 'Carlos', 'email' => 'carlos@correo.com', 'city' => 'Benalmádena']; 
-    //     $userEmail = '';
+    //     $userEmail = $user["email"];
 
     //     assertEquals('carlos@correo.com', $userEmail);
     // }

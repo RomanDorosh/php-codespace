@@ -1,0 +1,13 @@
+{
+    "name": "roman/codigophp",
+    "authors": [
+        {
+            "name": "RD1",
+            "email": "roma.dorosh@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

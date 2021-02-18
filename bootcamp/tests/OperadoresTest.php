@@ -5,11 +5,11 @@ use function PHPUnit\Framework\assertEquals;
 
 final class OperadoresTest extends TestCase
 {
-    // public function testOperadoresAritmeticos(): void
-    // {
-    //     $result = 7 + 6 * (4 - 2) - 10 ;
-    //     assertEquals(0, $result, '¿Cuál es el resultado de la operación?');
-    // }
+    public function testOperadoresAritmeticos(): void
+    {
+        $result = 7 + 6 * (4 - 2) - 10 ;
+        assertEquals(9, $result, '¿Cuál es el resultado de la operación?');
+    }
 
     // public function testConcatenacion(): void
     // {

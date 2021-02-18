@@ -1,0 +1,12 @@
+body {
+    background-color: coral;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+    padding: 20px;
+}
+
+table, th, tr, td {
+    border: 1px solid rgb(109, 108, 108);
+}
